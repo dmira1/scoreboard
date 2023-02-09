@@ -81,3 +81,10 @@ h3 {
 .highlight {
   filter: brightness(200%);
 }
+
+.return {
+  text-decoration: none;
+  color: unset;
+  display: block;
+  margin: 1rem;
+}
